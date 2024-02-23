@@ -15,6 +15,8 @@ To address this challenge, we propose a targeted approach centered around creati
 
   🧹 **Data Quality Assurance:** Rigorous checks were conducted to ensure the accuracy and consistency of the data. This process was akin to assembling puzzle pieces meticulously to eliminate ambiguity and reveal the true contours of the global job loss scenario.
 
+  ![Screenshot (93)](https://github.com/AkshayShirbhate09/Supply_Chain_Analysis/assets/161019134/b2a0fc49-32f2-407f-a68b-03d49ccb081b)
+
   🖥️ **User-Friendly Interactive Report:** A report was crafted to encapsulate a wealth of data in a user-friendly format. Visualization techniques were employed to present complex data in an easily digestible format, transforming raw information into a compelling narrative.
 
   📈 **Visual Storytelling Through Analytics:** Engaging visual elements such as charts and graphs were used to tell a compelling story, facilitating a deeper understanding of the job   loss landscape.
