@@ -1,5 +1,5 @@
 # Global-Layoff-Analysis-Report
-
+![2022 LAYOFF ANALYSIS_page-0001 (1)](https://github.com/AkshayShirbhate09/Global-Layoff-Analysis-Report/assets/161019134/1f75875f-1fdc-40be-9bfc-dfeefcb5397b)
 🌍 **Problem Statement:**
 
 The Covid-19 pandemic has prompted widespread job losses on a global scale, posing a substantial challenge for businesses, leaders, and individuals to fully comprehend the comprehensive scope and implications of these disruptions in the workforce landscape. To address this challenge, we conducted an analysis using Power BI visualization to generate insights and understand the impact of these job losses more effectively.
