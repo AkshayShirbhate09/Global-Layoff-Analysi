@@ -1,8 +1,10 @@
+# Global-Layoff-Analysis-Report
+
 🌍 **Problem Statement:**
 
 The Covid-19 pandemic has prompted widespread job losses on a global scale, posing a substantial challenge for businesses, leaders, and individuals to fully comprehend the comprehensive scope and implications of these disruptions in the workforce landscape. To address this challenge, we conducted an analysis using Power BI visualization to generate insights and understand the impact of these job losses more effectively.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👨🏻‍💻**Approach to Solve:**
 
 To address this challenge, we propose a targeted approach centered around creating a concise yet impactful report. Utilizing advanced data analysis, we will track global job losses since the pandemic's onset. Here's our streamlined approach:
@@ -16,7 +18,6 @@ To address this challenge, we propose a targeted approach centered around creati
   📈 **Visual Storytelling Through Analytics:** Engaging visual elements such as charts and graphs were used to tell a compelling story, facilitating a deeper understanding of the job   loss landscape.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 👀 **What were we looking:**
 
   1. What is the total number of layoffs globally, and how much funding was raised during the same period?
@@ -31,8 +32,8 @@ To address this challenge, we propose a targeted approach centered around creati
   10. In which sectors did the layoffs have the most significant impact in the USA and India, respectively?
   11. Which organization in the USA had the largest count of layoffs according to the analysis?
   12. which organization in India had the highest number of layoffs?
+      
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 💡 **Outcomes/Why It Matters:**
 
   🚀 Informed Decision-Making: Provides businesses with timely insights into job losses, aiding swift and well-informed decisions.
