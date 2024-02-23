@@ -1,4 +1,4 @@
-# Global-Layoff-Analysis-Report
+# Global Layoff Analysis Report
 
 ![2022 LAYOFF ANALYSIS_page-0001 (1)](https://github.com/AkshayShirbhate09/Global-Layoff-Analysis-Report/assets/161019134/1f75875f-1fdc-40be-9bfc-dfeefcb5397b)
 
