@@ -36,10 +36,20 @@ To address this challenge, we propose a targeted approach centered around creati
   10. In which sectors did the layoffs have the most significant impact in the USA and India, respectively?
   11. Which organization in the USA had the largest count of layoffs according to the analysis?
   12. which organization in India had the highest number of layoffs?
-      
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📊 Visuals Used:
+
+  🧮 Slicer
+  🃏 Cards
+  📈 Line & Area Chart
+  🍩 Customized Donut Chart
+  🗺️ Customized Map Chart
+  📊 Column Chart
+  🍩 Donut Chart
+  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 💡 **Outcomes/Why It Matters:**
 
   🚀 Informed Decision-Making: Provides businesses with timely insights into job losses, aiding swift and well-informed decisions.
-
   🌐 Strategic Planning with Predictive Analytics: Utilizes advanced tools to anticipate future trends, empowering strategic planning efforts amidst the post-pandemic landscape.
